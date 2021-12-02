@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/aws/aws-sdk-go v1.37.1
 	github.com/coreos/go-oidc v2.1.0+incompatible // indirect
-	github.com/flyteorg/flyteidl v0.21.10
+	github.com/flyteorg/flyteidl v0.21.12
 	github.com/flyteorg/flytestdlib v0.4.2
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/ghodss/yaml v1.0.0
